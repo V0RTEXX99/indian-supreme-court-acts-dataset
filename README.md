@@ -1,4 +1,4 @@
-# Indian Supreme Court Judgments Dataset (Section-wise)
+# Indian Supreme Court Acts Dataset (Section-wise)
 
 ## Overview
 This dataset contains Indian Supreme Court Acts split into smaller sections (chunks) for easier processing and analysis. Each row corresponds to a portion of a legal document, making it suitable for Natural Language Processing (NLP) tasks.
@@ -38,4 +38,4 @@ The original legal texts are sourced from publicly available government resource
 
 ## Citation
 If you use this dataset, please cite:
-Aayan Iqbal. Indian Legal NLP Dataset (2026).
+Aayan Iqbal. Indian Supreme Court Acts Dataset (2026).
