@@ -35,3 +35,7 @@ The dataset is provided in both JSONL and CSV format with the following fields:
 Please ensure compliance with applicable data usage laws and regulations.
 This dataset is released under the Apache 2.0 License for the structure and preprocessing.
 The original legal texts are sourced from publicly available government resources (India Code) and are subject to their respective terms of use.
+
+## Citation
+If you use this dataset, please cite:
+Aayan Iqbal. Indian Legal NLP Dataset (2026).
